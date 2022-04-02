@@ -1,0 +1,22 @@
+{
+  "name": "rplacebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HexaBinary/rPlaceBot.git"
+  },
+  "author": "HexaBinary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HexaBinary/rPlaceBot/issues"
+  },
+  "homepage": "https://github.com/HexaBinary/rPlaceBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "description": ""
+}
