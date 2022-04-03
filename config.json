@@ -1,6 +1,9 @@
 {
     "clientId": "959912184681480193",
-	"guildId": "802952608242597939",
+	"guildId": "959940869186797638",
     "img": "test12x12.png",
-    "imgData": "imgdata"
+    "imgData": "imgdata",
+    "uidList": "userlist",
+    "startX": 1100,
+    "startY": 560
 }

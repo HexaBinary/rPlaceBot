@@ -9,7 +9,7 @@ const commands = [
 	new SlashCommandBuilder().setName('ping').setDescription('Replies with pong!'),
 	new SlashCommandBuilder().setName('server').setDescription('Replies with server info!'),
 	new SlashCommandBuilder().setName('user').setDescription('Replies with user info!'),
-    new SlashCommandBuilder().setName('image').setDescription('Replies with image info!'),
+    new SlashCommandBuilder().setName('coords').setDescription('Replies with image coordinates info!'),
 ]
 	.map(command => command.toJSON());
 
