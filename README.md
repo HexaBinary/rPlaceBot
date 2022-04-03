@@ -10,4 +10,6 @@ Currently a WIP
 
 => crate a file named .env including your bot's token in "BOT_TOKEN=*your-token*" format
 
-=> put your pixelarts' filepath to the img field in config.
+=> put your pixel arts' filepath to the img field in config.
+
+=> put the top left corner coordinates for your planned pixel art in the startX & startY fields in config
