@@ -2,7 +2,7 @@
 
 rPlaceBot is a Discord bot made to help Discord communities create art in Reddit's r/Place canvas
 
-Currently a WIP
+Discontinued development due to lack of js experience and the end of r/place 2022 getting near, may continue if r/place becomes annual
 
 **These changes are necessary to make in the config file in a local setup for the bot to work**
 
